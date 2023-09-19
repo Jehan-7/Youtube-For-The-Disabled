@@ -44,6 +44,3 @@ mediapipe
 2. Configure your mySQL Databse and change the connecion username,password as necessary in the codefile or you could configure it to our settings 
 3. We have 3 databases Playlists , Analytics and emot . You can use the provided MySQL file
 4. You can also change your mic by changing the device index in the STT.py file 
-
-##### Video presentation link:
-https://vitacin-my.sharepoint.com/:f:/g/personal/arnav_bansal2020_vitstudent_ac_in/EqrUMcdBx2lEkKbwOw__j0cBoUiRxsiTbasrEGofv6JBwQ?e=SkD9G8
